@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TagEm</string>
+    <string name="title_activity_team_configuration">TeamConfiguration</string>
 </resources>
